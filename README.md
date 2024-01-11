@@ -1,3 +1,3 @@
 # Python-Power-Up
 
-- initial config
+- treinamento inicial de conceitos do python
